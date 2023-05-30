@@ -1,54 +1,5 @@
 <!DOCTYPE html>
 
-<!-- Date: 05/30/2023
-Task: Generate an HTML file that showcases the subsequent details:
-* A header containing your First and Last Name
-* A paragraph describing yourself
-* Add an image.
-* Add Lists featuring your hobbies and favorites
-* On a separate link within your page, make a cheat sheet for HTML and CSS.
-* Style it using CSS
-* Add another link to your GitHub repository.
-Save the file in a directory and upload it to your GitHub account (public repo). -->
-
-
-
-<head>
-  <title>My Page</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <div class="row">
-  <div><img class="pic" src="img/animegan_toon_312806495_1125434571680320_3038619779877481251_n-removebg-preview2.png">
-  </div>
-
-  <div>
-    <h1 class="name">Anne Nicole Arboleda</h1>
-    <p class="generaltext">I am an eager learner who finds joy in reading and playing the guitar. Software development is my chosen career path as it fuels my passion for continuous learning and problem-solving, allowing me to explore new technologies and programming languages. Overall, I am a dedicated learner, constantly expanding my skills and embracing challenges in the dynamic world of software development.
-    </p>
-    
-    <h2>My hobbies:</h2>
-    
-    <ul class="generaltext">
-      <li>Eating from unli-buffets</li>
-      <li>Reading</li>
-      <li>Playing guitar</li>
-    </ul>
-    
-    <p><a href="newpage.html">CHEATSHEET</a></p>
-    <p><a href="https://github.com/annenicolearboleda/May30HTMLCSS">Github Repo</a></p>
-    </div>
-
-  </div>
-
-</body>
-
-
-
-
-
-<!-- <!DOCTYPE html>
-
 <html>
   <head>
     <title>Youtube.com Clone</title>
@@ -251,4 +202,4 @@ Save the file in a directory and upload it to your GitHub account (public repo).
     </main>
 
   </body>
-</html>   -->
+</html>  
