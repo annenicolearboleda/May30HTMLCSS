@@ -11,7 +11,9 @@ body {
   margin-left: 100px;
 }
 
-
+p, h1, h2{
+  background-color: aliceblue;
+}
 
 .name {
   width: 500px;
